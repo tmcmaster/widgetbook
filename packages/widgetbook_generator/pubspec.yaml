@@ -27,10 +27,10 @@ dependencies:
   source_gen: ^1.1.0
   #widgetbook_annotation: ^3.2.0
   widgetbook_annotation:
-  git:
-    url: git@github.com:tmcmaster/widgetbook.git
-    ref: dev
-    path: packages/widgetbook_annotation
+    git:
+      url: git@github.com:tmcmaster/widgetbook.git
+      ref: dev
+      path: packages/widgetbook_annotation
   yaml: ^3.1.1
 
 dev_dependencies:
