@@ -30,7 +30,7 @@ class DesktopLayout extends StatelessWidget implements BaseLayout {
       color: Theme.of(context).colorScheme.surface,
       child: ResizableWidget(
         separatorSize: 2,
-        percentages: [0.2, 0.6, 0.2],
+        percentages: [0.3, 0.5, 0.2],
         separatorColor: Colors.white24,
         children: [
           ExcludeSemantics(
